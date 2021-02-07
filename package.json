@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Paulvitalis200/Social-lite/issues"
   },
-  "homepage": "https://github.com/Paulvitalis200/Social-lite#readme"
+  "homepage": "https://github.com/Paulvitalis200/Social-lite#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.11.15"
+  }
 }
